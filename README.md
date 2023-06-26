@@ -2,7 +2,7 @@
 In this assignment, I was tasked to build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site, which catalogues the microbes that colonise human navels.
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-I have also deployed this on Git
+I have also deployed this on Github-Pages which can be viewed with the following URL. https://hluu1.github.io/belly-button-challenge/
 
 The first part that I was tasked to do was to create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual. Through the coding that can be viewed in the static file named "app.js".
 I was able to create the bar graphs as showin in the images below with the dropbox being on the side allowing users to choose test subjects from numbers 940 to 1601.
