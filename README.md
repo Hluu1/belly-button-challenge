@@ -25,4 +25,8 @@ Then I had to display the sample metadata, i.e., an individual's demographic inf
 ![demo1](https://github.com/Hluu1/belly-button-challenge/assets/125692186/dfbeb6ac-33ff-4ccb-a07d-81cb6683b379)
 ![Demo2](https://github.com/Hluu1/belly-button-challenge/assets/125692186/a453fe44-bfbd-4e53-8f8a-f82e14be88b9)
 
+In this assignment, there's also a bonus section where I needed to adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/Links to an external site. to plot the weekly washing frequency of the individual and
+modify the example gauge code to account for values ranging from 0 through 9 and to update the chart whenever a new sample is selected. This is something I have attempted and was successfull in doing so. The code for this can be foung in the file named, "bonus.js" in the static folder. Below are images of my results.
 
+![newplot (7)](https://github.com/Hluu1/belly-button-challenge/assets/125692186/70ed9493-151e-4214-84e2-74349cb21f29)
+![newplot (8)](https://github.com/Hluu1/belly-button-challenge/assets/125692186/d4367736-330d-41ab-8b22-f3cdd80f62f9)
