@@ -8,4 +8,5 @@ I was able to create the bar graphs as showin in the images below with the dropb
 ![newplot (1)](https://github.com/Hluu1/belly-button-challenge/assets/125692186/ef58f154-4035-4a9c-82cd-9397df57a108)  
 ![newplot (2)](https://github.com/Hluu1/belly-button-challenge/assets/125692186/972a7905-18af-4928-b02c-7810bfa08ae1)
 ![newplot (3)](https://github.com/Hluu1/belly-button-challenge/assets/125692186/67014a94-05fa-4f3c-b08c-7109198126ef)
+![newplot (4)](https://github.com/Hluu1/belly-button-challenge/assets/125692186/963843d8-23f2-4f50-bf22-9d9b0aff916c)
 ![dropboxmineu](https://github.com/Hluu1/belly-button-challenge/assets/125692186/f5fa44f5-21d2-4a40-81b0-b8746d3c3934)
