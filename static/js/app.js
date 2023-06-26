@@ -1,3 +1,4 @@
+// app.js
 const dataUrl = "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json";
 
 d3.json(dataUrl).then(function(data) {
@@ -14,6 +15,7 @@ d3.json(dataUrl).then(function(data) {
     const top10SampleValues = selectedData.sample_values.slice(0, 10).reverse();
     const top10OtuIds = selectedData.otu_ids.slice(0, 10).map(id => `OTU ${id}`).reverse();
     const top10OtuLabels = selectedData.otu_labels.slice(0, 10).reverse();
+
     const barTrace = {
       x: top10SampleValues,
       y: top10OtuIds,
@@ -73,4 +75,3 @@ d3.json(dataUrl).then(function(data) {
   const initialSample = names[0];
   updateDashboard(initialSample);
 });
-
