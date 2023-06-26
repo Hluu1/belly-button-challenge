@@ -2,7 +2,7 @@
 In this assignment, I was tasked to build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site, which catalogues the microbes that colonise human navels.
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-The first part that I was tasked to do was to create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual. Through the coding tha can be viewed in the static file named "app.js".
+The first part that I was tasked to do was to create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual. Through the coding that can be viewed in the static file named "app.js".
 I was able to create the bar graphs as showin in the images below with the dropbox being on the side allowing users to choose test subjects from numbers 940 to 1601.
 
 ![newplot (1)](https://github.com/Hluu1/belly-button-challenge/assets/125692186/ef58f154-4035-4a9c-82cd-9397df57a108)
@@ -11,3 +11,16 @@ I was able to create the bar graphs as showin in the images below with the dropb
 ![newplot (4)](https://github.com/Hluu1/belly-button-challenge/assets/125692186/963843d8-23f2-4f50-bf22-9d9b0aff916c)
 ![dropboxmineu](https://github.com/Hluu1/belly-button-challenge/assets/125692186/f5fa44f5-21d2-4a40-81b0-b8746d3c3934)
 ![dropboxmineu2](https://github.com/Hluu1/belly-button-challenge/assets/125692186/8ae78023-a6ec-4da0-9e96-21a54185485a)
+
+The next part was to add a bubble chart with the same dataset. WHich again can be viewed in the static file named "app.js".
+I was able to create the bubble graphs graphs as showin in the images below.
+
+![newplot (3)](https://github.com/Hluu1/belly-button-challenge/assets/125692186/02748ca6-542c-4e1a-8681-b2994a7006d7)
+![newplot (4)](https://github.com/Hluu1/belly-button-challenge/assets/125692186/f1ca60d0-fa16-41c7-9eb1-0f6a7f4a79a8)
+
+Then I had to display the sample metadata, i.e., an individual's demographic information and each key-value pair from the metadata JSON object somewhere on the page. Which I have succeeded on witht he code found in the same "app.js" file.
+
+![demo1](https://github.com/Hluu1/belly-button-challenge/assets/125692186/dfbeb6ac-33ff-4ccb-a07d-81cb6683b379)
+![Demo2](https://github.com/Hluu1/belly-button-challenge/assets/125692186/a453fe44-bfbd-4e53-8f8a-f82e14be88b9)
+
+
